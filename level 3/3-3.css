@@ -1,0 +1,25 @@
+h2 {
+   margin-bottom: 50px;
+}
+
+.box {
+    position: relative;
+    top: 180px;
+    border: 2px solid rgb(230, 230, 230);
+    margin-left: 550px;
+    margin-right: 550px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+
+div.title
+{
+float:left;
+width:160px;
+margin:0;
+padding:1em;
+}

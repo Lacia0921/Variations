@@ -1,0 +1,70 @@
+
+ 
+ .box {
+     position: absolute;
+     border: 2px solid rgba(26, 26, 26, 0);
+     background-color: rgb(26, 26, 26);
+     margin-left: 1200px;
+     margin-right: 10px;
+     margin-top: 400px;
+     padding-bottom: 50px;
+     padding-left: 50px;
+     padding-right: 50px;
+     color: white;
+     
+ }
+ 
+ 
+.title {
+    text-align: center;
+    font-family: 'Cookie', cursive;
+    font-size: 200%;
+    position: relative;
+    margin: 20px;
+}
+
+.au {
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    margin-bottom: 50px;
+    margin-top: -30px;
+}
+
+span {
+float:left;
+width: 1em;
+font-size:400%;
+font-family: 'Courgette', cursive;
+line-height:80%;
+}
+
+body {
+    background-image: url(https://www.asahicom.jp/articles/images/AS20180824003705_comm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box2 {
+    writing-mode: vertical-rl;
+    color: white;
+    letter-spacing: 3px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    text-shadow: 2px 2px 5px rgb(58, 58, 58);
+        position: relative;
+        left: 20px;
+        top: 30px;
+        animation-name: example;
+        animation-duration: 2s;
+      }
+      
+      @keyframes example {
+        0%   {color:rgba(255, 255, 255, 0); left:20px; top:0px;}
+        100% {color:rgb(255, 255, 255); left:20px; top:30px;}
+      }
+
+.pg {
+    font-family: 'Courgette', cursive;
+    line-height: 150%;
+}

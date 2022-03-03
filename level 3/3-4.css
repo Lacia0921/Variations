@@ -1,0 +1,26 @@
+.table {
+    display: table;
+    border: 4px solid rgb(240, 240, 240);
+    margin: 20px;
+}
+.row {
+    display: table-row;
+    border: 1px solid #ff0000;
+}
+.cell {
+    display: table-cell;
+    border: 1px solid #cccccc;
+    padding: 5px;
+}
+
+.box1 {
+    color: red;
+}
+
+.box2 {
+    color: green;
+}
+
+.box3 {
+    color: blue;
+}

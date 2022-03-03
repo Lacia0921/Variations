@@ -1,0 +1,30 @@
+.p1 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.p2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.p3 {
+    display: block;
+}
+
+h1 {
+    height: fit-content;
+    width: fit-content;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 2px solid black;
+    position: relative;
+    top: 10px
+}
+
+
+.box {
+    position: absolute;
+    left: 80px;
+    top: 20px;
+}

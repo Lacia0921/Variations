@@ -1,0 +1,38 @@
+h2 {
+    margin-bottom: 50px;
+    position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+ }
+ 
+ .box {
+     position: relative;
+     margin-top: 50px;
+     border: 2px solid rgb(230, 230, 230);
+     background-color: rgba(255, 255, 255, 0.233);
+     box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.137);
+     margin-left: 550px;
+     margin-right: 550px;
+     padding-top: 30px;
+     padding-bottom: 50px;
+     padding-left: 50px;
+     padding-right: 50px;
+     color: white;
+     text-shadow: 2px 2px 4px #00000059;
+ }
+ 
+ 
+.title {
+     position: relative;
+     font-family: 'Lobster', cursive;
+     font-size: large;
+ }
+
+ body {
+       background-image: radial-gradient(circle, rgb(0, 225, 255), rgb(212, 175, 255), rgb(255, 129, 181));
+ }
+
+ .pg {
+    text-align: right;
+    line-height: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+ }
